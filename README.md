@@ -1,4 +1,4 @@
-# studentcoloco
+# StudentColoco Mobile App with flutter 
 
 A new Flutter application.
 
